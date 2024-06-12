@@ -5,7 +5,7 @@ Hy my name is Fahad Aziz khan, I am student of student of Computer Science at NU
 This is our University second semester project with Java OOP and me and my 3 team member together created a unique GUI with help of java Swing and OOP.
 
 
-# Our project has some major functionality:
+**Our project has some major functionality:**
 
 Client =>
 1: Client Login with verification.
