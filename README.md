@@ -8,7 +8,7 @@ This is our University second semester project with Java OOP and me and my 3 tea
 # Our project has some major functionality:
 
 Client =>
-1: Client Login with verification.
+1: Client Login with verification./n
 2: Client SignUp with account verification and validation.
 3: Client Home Panel.
 4: Service Selection with prices.
